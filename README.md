@@ -14,10 +14,10 @@ To move:
 This project was run on Windows. Here are the following instructions in order for it to run:
 
 ### Visual Studio set up
-The link for download is [here][https://visualstudio.microsoft.com/downloads/]
+The link for download is [here](https://visualstudio.microsoft.com/downloads/)
 
 ### Set up of vcpkg
-The steps for the set up is [here][https://vcpkg.io/en/getting-started.html]
+The steps for the set up is [here](https://vcpkg.io/en/getting-started.html)
 but here are all the steps to do at the root:
 
 ```
