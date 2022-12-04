@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Jessy\vcpkg\installed\x64-windows\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(91,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(91,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(119,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(217,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(217,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(247,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(258,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(267,29): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(268,29): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(272,94): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(276,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\opengl\projet_opengl_tp\projet_opengl_tp\main.cpp(276,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  projet_opengl_tp.vcxproj -> E:\opengl\projet_opengl_tp\x64\Debug\projet_opengl_tp.exe
